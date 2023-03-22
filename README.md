@@ -20,7 +20,7 @@ o A card, the source card, can be moved to a collection if the collection has on
 two cards and if the rightmost card in the collection, the destination card, differs in rank by one from the source card (larger or smaller but not equal). Suits do not matter—they may be the same or different.
 • To the foundation:
 
-o A card, the source card, can be moved to a foundation, if the destination (top) foundation card is the same suit and has a rank one lower than the source card. An ace can only move to an empty foundation pile; no other rank card may move to an empty foundation pile.
+A card, the source card, can be moved to a foundation, if the destination (top) foundation card is the same suit and has a rank one lower than the source card. An ace can only move to an empty foundation pile; no other rank card may move to an empty foundation pile.
 No other moves are permitted (except undo).
 The initial layout from the worldofsolitaire.com site:
 <img width="597" alt="Screenshot 2023-03-22 at 4 15 06 AM" src="https://user-images.githubusercontent.com/102822796/226840309-701c4a41-75c6-455e-a3e8-22861da4d8b4.png">
