@@ -1,6 +1,5 @@
 # =============================================================================
 # 
-# Computer Project #10
 # Solitaire: Shamrocks card game
 # A model of a card game using classes from cards.py file
 # Algorithm:
@@ -8,7 +7,7 @@
 #   call function to promt for option
 #   call the specific function to display the data corresponding to the option
 # =============================================================================
-#DO NOT DELETE THESE LINES
+
 import cards, random
 random.seed(100) #random number generator will always generate 
                  #the same 'random' number (needed to replicate tests)
